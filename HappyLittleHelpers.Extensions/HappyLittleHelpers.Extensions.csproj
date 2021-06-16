@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
     <PropertyGroup>
-        <PackageVersion>1.0.6</PackageVersion>
+        <PackageVersion>1.0.7</PackageVersion>
         <Title>Happy Little Helper Extension Methods</Title>
         <Description>A collection of exension methods.   </Description>
         <PackageProjectUrl>https://github.com/tyrongower/happy-little-helpers</PackageProjectUrl>

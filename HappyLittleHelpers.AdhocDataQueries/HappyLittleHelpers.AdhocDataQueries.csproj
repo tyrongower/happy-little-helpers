@@ -5,7 +5,7 @@
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
         <Title>Happy Little Helpers for Adhoc Data Queries</Title>
         <Authors>Tyron Gower</Authors>
-        <PackageVersion>1.0.1</PackageVersion>
+        <PackageVersion>1.0.2</PackageVersion>
         <LangVersion>8</LangVersion>
         <Description>This allows you to query the database with adhoc queries returning strongly typed records</Description>
         <PackageProjectUrl>https://github.com/tyrongower/happy-little-helpers</PackageProjectUrl>
