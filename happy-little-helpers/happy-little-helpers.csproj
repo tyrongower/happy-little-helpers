@@ -8,7 +8,7 @@
         <Description>A collection of exension methods. </Description>
         <PackageProjectUrl>https://github.com/tyrongower/happy-little-helpers</PackageProjectUrl>
         <RepositoryUrl>https://github.com/tyrongower/happy-little-helpers</RepositoryUrl>
-        <Version>1.0.1</Version>
+        <Version>1.0.2</Version>
         <Authors>Tyron Gower</Authors>
         <PackageReleaseNotes>Added datatables and collection checking</PackageReleaseNotes>
     </PropertyGroup>
