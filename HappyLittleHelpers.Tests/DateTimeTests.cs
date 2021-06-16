@@ -1,4 +1,5 @@
 using System;
+ 
 using NUnit.Framework;
 
 namespace little_happy_helpers_tests
@@ -20,5 +21,8 @@ namespace little_happy_helpers_tests
             Assert.True(new DateTime(2021, 01, 1, 23, 55, 15) == withTime,"With time");
             Assert.True(new DateTime(2021, 01, 1) == withoutTime,"Without time");
         }
+        
+     
+        
     }
 }
