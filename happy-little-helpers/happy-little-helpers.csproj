@@ -3,12 +3,12 @@
     <PropertyGroup>
         <TargetFramework>netstandard2.1</TargetFramework>
         <RootNamespace>HappyLittleHelpers</RootNamespace>
-        <PackageVersion>1.0.3</PackageVersion>
+        <PackageVersion>1.0.4</PackageVersion>
         <Title>Happy little helpers</Title>
         <Description>A collection of exension methods. </Description>
         <PackageProjectUrl>https://github.com/tyrongower/happy-little-helpers</PackageProjectUrl>
         <RepositoryUrl>https://github.com/tyrongower/happy-little-helpers</RepositoryUrl>
-        <Version>1.0.3</Version>
+        <Version>1.0.4</Version>
         <Authors>Tyron Gower</Authors>
         <PackageReleaseNotes>Added datatables and collection checking</PackageReleaseNotes>
     </PropertyGroup>
