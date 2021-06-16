@@ -1,8 +1,10 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "happy-little-helpers", "happy-little-helpers\happy-little-helpers.csproj", "{F987D834-7C9B-4C98-BA65-637F441D6B81}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HappyLittleHelpers.Extensions", "HappyLittleHelpers.Extensions\HappyLittleHelpers.Extensions.csproj", "{F987D834-7C9B-4C98-BA65-637F441D6B81}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "little-happy-helpers-tests", "little-happy-helpers-tests\little-happy-helpers-tests.csproj", "{A2137783-5B48-4722-B878-727DB66D190B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HappyLittleHelpers.Tests", "HappyLittleHelpers.Tests\HappyLittleHelpers.Tests.csproj", "{A2137783-5B48-4722-B878-727DB66D190B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HappyLittleHelpers.AdhocDataQueries", "HappyLittleHelpers.AdhocDataQueries\HappyLittleHelpers.AdhocDataQueries.csproj", "{659AEB52-B892-42C7-8A75-55F23D8E59C4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,5 +20,9 @@ Global
 		{A2137783-5B48-4722-B878-727DB66D190B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A2137783-5B48-4722-B878-727DB66D190B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A2137783-5B48-4722-B878-727DB66D190B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{659AEB52-B892-42C7-8A75-55F23D8E59C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{659AEB52-B892-42C7-8A75-55F23D8E59C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{659AEB52-B892-42C7-8A75-55F23D8E59C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{659AEB52-B892-42C7-8A75-55F23D8E59C4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
