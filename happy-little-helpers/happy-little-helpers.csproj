@@ -3,6 +3,12 @@
     <PropertyGroup>
         <TargetFramework>netstandard2.1</TargetFramework>
         <RootNamespace>HappyLittleHelpers</RootNamespace>
+        <PackageVersion>1.0.1</PackageVersion>
+        <Title>Happy little helpers</Title>
+        <Description>            </Description>
+        <PackageProjectUrl>https://github.com/tyrongower/happy-little-helpers</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/tyrongower/happy-little-helpers</RepositoryUrl>
+        <Version>1.0.1</Version>
     </PropertyGroup>
 
 </Project>
